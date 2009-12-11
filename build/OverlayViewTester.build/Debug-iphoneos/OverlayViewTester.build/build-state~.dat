@@ -1,0 +1,372 @@
+TOverlayViewTester
+v7
+r0
+t282158941.707570
+cCheck dependencies
+cCpResource build/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/Info.plist OverlayViewTester-Info.plist
+cCompileXIB /Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib
+cCompileXIB /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib
+cCopyPNGFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png overlaygraphic.png
+cProcessPCH /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch.gch OverlayViewTester_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/main.o /Users/Jason/Documents/Xcode/OverlayViewTester/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTesterAppDelegate.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewController.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayView.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester normal armv6
+cGenerateDSYMFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app.dSYM /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester
+cProcessProductPackaging "/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision" /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision
+cTouch /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent
+cCodeSign /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.h
+c000000004B21293600000000000000D0
+t1260464438
+s208
+i<UIKit/UIKit.h>
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m
+c000000004B212F750000000000000706
+t1260466037
+s1798
+i"OverlayView.h"
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.h
+c000000004B212CC100000000000001AE
+t1260465345
+s430
+i<UIKit/UIKit.h>
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m
+c000000004B212C750000000000000886
+t1260465269
+s2182
+i"OverlayViewController.h"
+i"OverlayView.h"
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib
+c000000004B2125F5000000000000187A
+t1260463605
+s6266
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.h
+c000000004B21283F00000000000001FF
+t1260464191
+s511
+i<UIKit/UIKit.h>
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m
+c000000004B212FD80000000000000297
+t1260466136
+s663
+i"OverlayViewTesterAppDelegate.h"
+i"OverlayViewController.h"
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib
+c000000004B2128990000000000004AD3
+t1260464281
+s19155
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/OverlayViewTester_Prefix.pch
+c000000004B21241D00000000000000CB
+t1260463133
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+t1260466141
+s408
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app.dSYM
+t1260466141
+s102
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/Info.plist
+t1260466138
+s676
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/MainWindow.nib
+t1260466138
+s1514
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewController.nib
+t1260466138
+s1106
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester
+t1260466141
+s22332
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/PkgInfo
+t1260466138
+s8
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist
+t1260466138
+s485
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision
+t1260466141
+s7225
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png
+t1260466139
+s672
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayView.o
+t1260466140
+s12852
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewController.o
+t1260466140
+s35316
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTester.LinkFileList
+c000000004B212FDA0000000000000270
+t1260466138
+s624
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTesterAppDelegate.o
+t1260466140
+s40828
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/main.o
+t1260466140
+s6564
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent
+t1260466141
+s330
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/main.m
+c000000004B21241D0000000000000169
+t1260463133
+s361
+i<UIKit/UIKit.h>
+
+N/Users/Jason/Documents/Xcode/OverlayViewTester/overlaygraphic.png
+c000000004B212F4C000000000000071D
+t1260465996
+s1821
+
+N/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision
+c000000004B20A1190000000000001C39
+t1260429593
+s7225
+
+N/var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch.gch
+t1260466140
+s7876792
+
+NOverlayViewTester-Info.plist
+c000000004B21241D000000000000038D
+t1260463133
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies282158938#282158938#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+s282158941.226331
+e282158941.707519
+r1
+xCodeSign
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+lSLF07#2@51"CodeSign build/Debug-iphoneos/OverlayViewTester.app282158941#282158941#0(0"0(0#0#89"/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app4300885448#712"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Jason Job" --resource-rules=/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist --entitlements /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app0#
+
+CCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayView.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s282158940.492459
+e282158940.567576
+r1
+xCompileC
+xbuild/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayView.o
+x/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m282158940#282158940#0(0"0(0#0#68"/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m4300885448#2038"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-generated-files.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-own-target-headers.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-all-target-headers.hmap -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-project-headers.hmap -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/include -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources/armv6 -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources -include /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch -c /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayView.m -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayView.o0#
+
+CCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewController.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s282158940.448380
+e282158940.574053
+r1
+xCompileC
+xbuild/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewController.o
+x/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m282158940#282158940#0(0"0(0#0#78"/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m4300885448#2058"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-generated-files.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-own-target-headers.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-all-target-headers.hmap -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-project-headers.hmap -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/include -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources/armv6 -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources -include /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch -c /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.m -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewController.o0#
+
+CCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTesterAppDelegate.o /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s282158940.339269
+e282158940.492307
+r1
+xCompileC
+xbuild/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTesterAppDelegate.o
+x/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m282158940#282158940#0(0"0(0#0#85"/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m4300885448#2072"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-generated-files.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-own-target-headers.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-all-target-headers.hmap -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-project-headers.hmap -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/include -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources/armv6 -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources -include /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch -c /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewTesterAppDelegate.m -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTesterAppDelegate.o0#
+
+CCompileC build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/main.o /Users/Jason/Documents/Xcode/OverlayViewTester/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s282158940.337665
+e282158940.448265
+r1
+xCompileC
+xbuild/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/main.o
+x/Users/Jason/Documents/Xcode/OverlayViewTester/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Jason/Documents/Xcode/OverlayViewTester/main.m282158940#282158940#0(0"0(0#0#53"/Users/Jason/Documents/Xcode/OverlayViewTester/main.m4300885448#2016"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-generated-files.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-own-target-headers.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-all-target-headers.hmap -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-project-headers.hmap -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/include -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources/armv6 -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources -include /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch -c /Users/Jason/Documents/Xcode/OverlayViewTester/main.m -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib
+s282158938.430521
+e282158938.744319
+r1
+xCompileXIB
+x/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib
+lSLF07#2@44"CompileXIB Classes/OverlayViewController.xib282158938#282158938#0(0"0(0#0#80"/Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib4300885448#532"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewController.nib /Users/Jason/Documents/Xcode/OverlayViewTester/Classes/OverlayViewController.xib0#
+
+CCompileXIB /Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib
+s282158938.429682
+e282158938.792889
+r1
+xCompileXIB
+x/Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib282158938#282158938#0(0"0(0#0#61"/Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib4300885448#502"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/MainWindow.nib /Users/Jason/Documents/Xcode/OverlayViewTester/MainWindow.xib0#
+
+CCopyPNGFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png overlaygraphic.png
+s282158938.744434
+e282158939.336296
+r1
+xCopyPNGFile
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png
+xoverlaygraphic.png
+lSLF07#2@92"CopyPNGFile build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png overlaygraphic.png282158938#282158939#0(0"0(0#0#65"/Users/Jason/Documents/Xcode/OverlayViewTester/overlaygraphic.png4300885448#610"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Jason/Documents/Xcode/OverlayViewTester/overlaygraphic.png /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/overlaygraphic.png0#
+
+CCpResource build/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s282158938.363911
+e282158938.429598
+r1
+xCpResource
+xbuild/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist282158938#282158938#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#508"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app0#
+
+CGenerateDSYMFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app.dSYM /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester
+s282158941.183184
+e282158941.210824
+r1
+xGenerateDSYMFile
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app.dSYM
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester
+lSLF07#2@125"GenerateDSYMFile build/Debug-iphoneos/OverlayViewTester.app.dSYM build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester282158941#282158941#0(0"0(0#0#107"/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester4300885448#416"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app.dSYM0#
+
+CLd /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester normal armv6
+s282158940.574162
+e282158941.183067
+r1
+xLd
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester
+xnormal
+xarmv6
+lSLF07#2@112"Link /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester282158940#282158941#0(0"0(0#0#0"4300885448#985"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -L/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -filelist /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/Objects-normal/armv6/OverlayViewTester.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/OverlayViewTester0#
+
+CProcessInfoPlistFile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/Info.plist OverlayViewTester-Info.plist
+s282158938.365032
+e282158938.410701
+r1
+xProcessInfoPlistFile
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/Info.plist
+xOverlayViewTester-Info.plist
+lSLF07#2@36"Process OverlayViewTester-Info.plist282158938#282158938#0(0"0(0#0#75"/Users/Jason/Documents/Xcode/OverlayViewTester/OverlayViewTester-Info.plist4300885448#634"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OverlayViewTester-Info.plist -genpkginfo /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/ResourceRules.plist -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/Info.plist0#
+
+CProcessPCH /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch.gch OverlayViewTester_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s282158939.336449
+e282158940.337433
+r1
+xProcessPCH
+x/var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch.gch
+xOverlayViewTester_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile OverlayViewTester_Prefix.pch282158939#282158940#0(0"0(0#0#75"/Users/Jason/Documents/Xcode/OverlayViewTester/OverlayViewTester_Prefix.pch4300885448#1896"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-generated-files.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-own-target-headers.hmap -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-all-target-headers.hmap -iquote /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester-project-headers.hmap -F/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/include -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources/armv6 -I/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/DerivedSources -c /Users/Jason/Documents/Xcode/OverlayViewTester/OverlayViewTester_Prefix.pch -o /var/folders/1y/1yqDGBymGWiLYS6veZTaKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OverlayViewTester_Prefix-cnxqibnglmahkfarmnlymljgodbf/OverlayViewTester_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision" /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision
+s282158941.210951
+e282158941.213241
+r1
+xProcessProductPackaging
+x/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision" build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision282158941#282158941#0(0"0(0#0#114"/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision4300885448#449"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Jason/Library/MobileDevice/Provisioning Profiles/1F7AA565-9294-4B6A-A36B-85DAFBEE1026.mobileprovision" -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent
+s282158941.216874
+e282158941.226247
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent
+lSLF07#2@207"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent282158941#282158941#0(0"0(0#0#139"/Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent4300885448#480"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/Jason/Documents/Xcode/OverlayViewTester/build/OverlayViewTester.build/Debug-iphoneos/OverlayViewTester.build/OverlayViewTester.xcent0#
+
+CTouch /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+s282158941.213306
+e282158941.216767
+r1
+xTouch
+x/Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app
+lSLF07#2@95"Touch /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app282158941#282158941#0(0"0(0#0#0"4300885448#290"    cd /Users/Jason/Documents/Xcode/OverlayViewTester    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Jason/Documents/Xcode/OverlayViewTester/build/Debug-iphoneos/OverlayViewTester.app0#
+
