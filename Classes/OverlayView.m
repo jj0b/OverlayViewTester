@@ -14,7 +14,7 @@
 
 
 - (id)initWithFrame:(CGRect)frame {
-    if (self = [super initWithFrame:frame]) {
+    if ((self = [super initWithFrame:frame])) {
 		// Clear the background of the overlay:
 		self.opaque = NO;
 		self.backgroundColor = [UIColor clearColor];
